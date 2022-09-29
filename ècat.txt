@@ -1,0 +1,6 @@
+$nomention
+$title[CAT !!!]
+$description[]
+$image[$randomText[https://c.tenor.com/fWXyb86dSWMAAAAM/ok-cat.gif;https://i.gifer.com/origin/6f/6fe9df92e407936aaf0a7ccbac89b718.gif;https://c.tenor.com/zrpyKEyxZGwAAAAM/fat-cat-laser-eyes.gif;https://i.gifer.com/origin/1b/1bc895d35904747b09b2c0950cf760cb.gif;https://acegif.com/wp-content/uploads/2022/06/happy-cat-title.gif;https://c.tenor.com/OJ1Hhj_WBicAAAAM/kitty-cat.gif]]
+$footer[ITS CUTE !!!!]
+$color[$random[111111;999999]]

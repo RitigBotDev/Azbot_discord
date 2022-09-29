@@ -1,0 +1,6 @@
+$nomention
+$title[DOG !!!]
+$description[]
+$image[$randomText[https://c.tenor.com/H04kLkyt_tUAAAAM/dog-little-dog.gif;https://media1.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy-downsized-large.gif;https://acegif.com/wp-content/uploads/gif/smiling-dog-14.gif;https://c.tenor.com/dPTC99hWMYgAAAAC/dog-sleepy.gif;https://c.tenor.com/s75sJ8v7DhYAAAAC/dog-memes-funny-dog.gif;https://thumbs.gfycat.com/WhirlwindBoldAcornweevil-max-1mb.gif]]
+$footer[ITS CUTE !!!!]
+$color[$random[111111;999999]]

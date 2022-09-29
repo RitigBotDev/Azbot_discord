@@ -1,0 +1,20 @@
+$nomention
+$onlyPerms[managemessages;<<:emoji_12:868819881716506684>743526107302854806>** | <@$authorID> you need permission `Managemessages` if not I delete no message.**]
+$onlyIf[$isNumber[$noMentionMessage]==true;Select a number of messages that you want to delete! **Use:** `"clear <number> {@user}`]
+$onlyIf[$noMentionMessage<=500;Vous pouvez seulement clear entre 2 et 500 messages.]
+$argsCheck[>1;**Use:** `"clear <number> {@user}`]
+$onlyIf[$noMentionMessage>=2;You can only clear between 2 and 500 messages.]
+$nomention
+$onlyIf[$noMentionMessage!=;Please choose the number of messages deleted. **Use:** `h.clear <number> {@user}`]
+$title[Logs]
+$description[Deleting Messages...]
+$editIn[1s;
+Sucess, deleted $noMentionMessage $replaceText[$replaceText[&$mentioned[1]&;&&;messages in chat;1];&$mentioned[1]&;the last messages of;1] $replaceText[$replaceText[&$mentioned[1]&;&&;;1];&$mentioned[1]&;<@$mentioned[1]>;1]]
+$clear[$noMentionMessage;$replaceText[$replaceText[&$mentioned[1]&;&&;;1];&$mentioned[1]&;$mentioned[1];1];no]
+$color[#0400FF]
+$deleteIn[11s]
+$deletecommand
+$footer[Clear par: $username[$authorID]#$discriminator[$authorID]]
+$footerIcon[$userAvatar[$authorID]]
+
+$onlyBotPerms[managemessages;I am not authorized to **manage messages**, so i can't run this command.] 

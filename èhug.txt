@@ -1,0 +1,7 @@
+$nomention
+$deletecommand
+$title[| Hug]
+$argsCheck[1;| add a user mention]
+$description[<@$mentioned[<]>, you received a hug from <@$authorID>]
+$image[$randomText[https://c.tenor.com/nHkiUCkS04gAAAAM/anime-hug-hearts.gif;https://i.imgur.com/UKYDxVe.gif;https://c.tenor.com/83QLplerW8sAAAAC/anime-hug.gif;https://thumbs.gfycat.com/BountifulElderlyCusimanse-max-1mb.gif;https://media3.giphy.com/media/GMFUrC8E8aWoo/giphy.gif;https://lh5.googleusercontent.com/proxy/YGb7jjR0b9lFB2HMHu7Qk2UVD_3lVtcNXVYULQGiNtT3yPHpmocjAox0G255QlDRl48zjASySxNUciE0_OiH2eG81OwupemWk3X6nm4QI2USfKuRl40mAhTeziECWLnQ13KzvljtKgczLfFmklAS-4MI=s0-d;https://c.tenor.com/IQSTvUuYTNIAAAAC/anime-hug.gif;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUo5YwGn09rW6OCxphVsb7EaP7JABb-xz8PQ&usqp=CAU;https://thumbs.gfycat.com/JealousFlakyArabianwildcat-max-1mb.gif]]
+$color[$random[111111;999999]]

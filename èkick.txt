@@ -1,0 +1,6 @@
+$nomention
+$kickMention[]
+$title[the user as been kick]
+$description[to kick again do +kick]
+$footer[executed by $username]
+$color[0000ff]

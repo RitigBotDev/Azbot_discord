@@ -1,0 +1,10 @@
+$nomention
+$unban
+$title[**UnBan**]
+$description[Moderator : <$authorID>
+ID unban : $message
+unban member : <$message> ] 
+$argsCheck[>1;<$authorID> **Please put the identifier of the person in question example** : ``+unban 123456789011121345`` !!]
+
+$onlyPerms[ban;you must have ban permission to do this command.]
+$deletecommand

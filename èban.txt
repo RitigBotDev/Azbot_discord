@@ -1,0 +1,18 @@
+$nomention
+$onlyIf[$mentioned[1]!=;You must **mention someone!**]
+$onlyIf[$noMentionMessage!=;**you must state the reason!**]
+$nomention 
+$title[The person has been successfully banned !]
+$description[Moderator : <@$authorID>
+User Banned : <@$mentioned[1]>
+Reason : $noMentionMessage
+] 
+
+$onlyPerms[ban; **You do not have permission to perform this command**.!]
+
+$ban[$ban]
+$footerIcon[$authorAvatar]
+$addTimestamp
+$color[0000ff]
+$deletecommand
+$footer[$username]
